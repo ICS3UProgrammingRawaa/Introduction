@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\bin\Debug\HelloWorldRawaa.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\bin\Debug\HelloWorldRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\bin\Debug\HelloWorldRawaa.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\obj\Debug\HelloWorldRawaa.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\obj\Debug\HelloWorldRawaa.frmHelloWorld.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\obj\Debug\HelloWorldRawaa.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\obj\Debug\HelloWorldRawaa.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\obj\Debug\HelloWorldRawaa.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\obj\Debug\HelloWorldRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\HelloWorldRawaa\HelloWorldRawaa\obj\Debug\HelloWorldRawaa.pdb

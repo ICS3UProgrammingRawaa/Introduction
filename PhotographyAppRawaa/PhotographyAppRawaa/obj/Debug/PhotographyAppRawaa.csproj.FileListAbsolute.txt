@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\bin\Debug\PhotographyAppRawaa.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\bin\Debug\PhotographyAppRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\bin\Debug\PhotographyAppRawaa.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\obj\Debug\PhotographyAppRawaa.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\obj\Debug\PhotographyAppRawaa.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\obj\Debug\PhotographyAppRawaa.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\obj\Debug\PhotographyAppRawaa.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\obj\Debug\PhotographyAppRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\obj\Debug\PhotographyAppRawaa.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PhotographyAppRawaa\PhotographyAppRawaa\obj\Debug\PhotographyAppRawaa.frmPhotographyApp.resources
