@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\bin\Debug\PerAreaVolRawaa.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\bin\Debug\PerAreaVolRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\bin\Debug\PerAreaVolRawaa.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\obj\Debug\PerAreaVolRawaa.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\obj\Debug\PerAreaVolRawaa.frmPerAreaVol.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\obj\Debug\PerAreaVolRawaa.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\obj\Debug\PerAreaVolRawaa.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\obj\Debug\PerAreaVolRawaa.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\obj\Debug\PerAreaVolRawaa.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\ARawaa (s458183)\Introduction\PerAreaVolRawaa\PerAreaVolRawaa\obj\Debug\PerAreaVolRawaa.pdb
